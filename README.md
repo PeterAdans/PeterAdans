@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeterAdans/PeterAdans/main/assets/banner-pedro-adan.png" alt="Pedro Adan | Backend & Full Stack Developer" width="100%">
+  <img src="https://github.com/PeterAdans/PeterAdans/blob/main/banerPedro.png?raw=true" alt="Pedro Adan | Backend & Full Stack Developer" width="100%">
 </p>
 
 <!-- 👋 Presentación -->
